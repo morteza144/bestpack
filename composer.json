@@ -1,0 +1,15 @@
+{
+    "name": "mortezagit/morione",
+    "authors": [
+        {
+            "name": "morteza shabani pour",
+            "email": "16mahtabi@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Mori\\":"src/"
+        }
+    },
+    "require": {}
+}
